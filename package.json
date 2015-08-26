@@ -1,0 +1,23 @@
+{
+  "name": "dt-ext",
+  "version": "1.0.0",
+  "description": "ext playground",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dejan-babic/dt-ext.git"
+  },
+  "keywords": [
+    "ext",
+    "playground"
+  ],
+  "author": "Dejan Babic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dejan-babic/dt-ext/issues"
+  },
+  "homepage": "https://github.com/dejan-babic/dt-ext"
+}
