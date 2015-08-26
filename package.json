@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/dejan-babic/dt-ext/issues"
   },
-  "homepage": "https://github.com/dejan-babic/dt-ext"
+  "homepage": "https://github.com/dejan-babic/dt-ext",
+  "dependencies": {
+    "bower": "^1.5.2"
+  }
 }
