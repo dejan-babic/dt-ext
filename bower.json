@@ -1,0 +1,23 @@
+{
+  "name": "dt-ext",
+  "version": "0.0.0",
+  "homepage": "https://github.com/dejan-babic/dt-ext",
+  "authors": [
+    "dejan-babic <dejan.babic@devtechgroup.com>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
